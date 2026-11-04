@@ -1,0 +1,26 @@
+{
+  "title": "Polyrhythmic Minimalism",
+  "study": "pm01",
+  "bpm": 112,
+  "source_audio": "preview/polyrhythmic-minimalism-simple-synth-preview.mp3",
+  "source_audio_sha256": "229f077176f45a152a15a25a4185b3b4c3d0e57b0b7cf165595a8e356ef876a6",
+  "source_midi": "midi/pm01-phase-one/pm01-phase-one-combined.mid",
+  "source_midi_sha256": "22f5bf5198ed3340aaa7f47da5761beab637c758df108ae09c82d449ca9d7d89",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "31658cd850ee62829958ca00edc6aad72cc2128f4b88d324c69290385d378b54",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "56018dd7424454fe79453e5644ef10a37d00621a1862b8bf6c3b7b4824a73dda",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "96859be6a436492f549ceba46530ce6afb34ca1be51156050c0adb0701e3dede",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
