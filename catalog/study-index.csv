@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+pm01,Phase One,pack-local equal-tempered pitch collection,C,112,4/4,480,32,61440,midi/pm01-phase-one/pm01-phase-one-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pm02,Three Against Four,pack-local equal-tempered pitch collection,D#,112,4/4,480,32,61440,midi/pm02-three-against-four/pm02-three-against-four-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pm03,Slow Rotation,pack-local equal-tempered pitch collection,F#,112,4/4,480,32,61440,midi/pm03-slow-rotation/pm03-slow-rotation-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pm04,Return Point,pack-local equal-tempered pitch collection,C#,112,4/4,480,32,61440,midi/pm04-return-point/pm04-return-point-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

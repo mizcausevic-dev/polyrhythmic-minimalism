@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+pm01,1,0,C,pack-local equal-tempered pitch collection,48 52 55,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,2,1920,C,pack-local equal-tempered pitch collection,48 52 55,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,3,3840,C,pack-local equal-tempered pitch collection,48 52 55,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,4,5760,C,pack-local equal-tempered pitch collection,48 52 55,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,5,7680,C,pack-local equal-tempered pitch collection,52 56 59,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,6,9600,C,pack-local equal-tempered pitch collection,52 56 59,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,7,11520,C,pack-local equal-tempered pitch collection,52 56 59,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,8,13440,C,pack-local equal-tempered pitch collection,52 56 59,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,9,15360,C,pack-local equal-tempered pitch collection,50 54 57,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,10,17280,C,pack-local equal-tempered pitch collection,50 54 57,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,11,19200,C,pack-local equal-tempered pitch collection,50 54 57,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,12,21120,C,pack-local equal-tempered pitch collection,50 54 57,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,13,23040,C,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,14,24960,C,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,15,26880,C,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,16,28800,C,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,17,30720,C,pack-local equal-tempered pitch collection,48 52 55,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,18,32640,C,pack-local equal-tempered pitch collection,48 52 55,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,19,34560,C,pack-local equal-tempered pitch collection,48 52 55,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,20,36480,C,pack-local equal-tempered pitch collection,48 52 55,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,21,38400,C,pack-local equal-tempered pitch collection,52 56 59,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,22,40320,C,pack-local equal-tempered pitch collection,52 56 59,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,23,42240,C,pack-local equal-tempered pitch collection,52 56 59,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,24,44160,C,pack-local equal-tempered pitch collection,52 56 59,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,25,46080,C,pack-local equal-tempered pitch collection,50 54 57,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,26,48000,C,pack-local equal-tempered pitch collection,50 54 57,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,27,49920,C,pack-local equal-tempered pitch collection,50 54 57,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,28,51840,C,pack-local equal-tempered pitch collection,50 54 57,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,29,53760,C,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,30,55680,C,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,31,57600,C,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm01,32,59520,C,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Initial cell establishes the material.
+pm02,1,0,D#,pack-local equal-tempered pitch collection,55 59 62,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,2,1920,D#,pack-local equal-tempered pitch collection,55 59 62,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,3,3840,D#,pack-local equal-tempered pitch collection,55 59 62,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,4,5760,D#,pack-local equal-tempered pitch collection,55 59 62,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,5,7680,D#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,6,9600,D#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,7,11520,D#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,8,13440,D#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,9,15360,D#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,10,17280,D#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,11,19200,D#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,12,21120,D#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,13,23040,D#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,14,24960,D#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,15,26880,D#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,16,28800,D#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,17,30720,D#,pack-local equal-tempered pitch collection,55 59 62,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,18,32640,D#,pack-local equal-tempered pitch collection,55 59 62,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,19,34560,D#,pack-local equal-tempered pitch collection,55 59 62,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,20,36480,D#,pack-local equal-tempered pitch collection,55 59 62,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,21,38400,D#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,22,40320,D#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,23,42240,D#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,24,44160,D#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,25,46080,D#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,26,48000,D#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,27,49920,D#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,28,51840,D#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,29,53760,D#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,30,55680,D#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,31,57600,D#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm02,32,59520,D#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Statement introduces a different contour.
+pm03,1,0,F#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,2,1920,F#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,3,3840,F#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,4,5760,F#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,5,7680,F#,pack-local equal-tempered pitch collection,59 63 66,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,6,9600,F#,pack-local equal-tempered pitch collection,59 63 66,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,7,11520,F#,pack-local equal-tempered pitch collection,59 63 66,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,8,13440,F#,pack-local equal-tempered pitch collection,59 63 66,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,9,15360,F#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,10,17280,F#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,11,19200,F#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,12,21120,F#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,13,23040,F#,pack-local equal-tempered pitch collection,58 62 65,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,14,24960,F#,pack-local equal-tempered pitch collection,58 62 65,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,15,26880,F#,pack-local equal-tempered pitch collection,58 62 65,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,16,28800,F#,pack-local equal-tempered pitch collection,58 62 65,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,17,30720,F#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,18,32640,F#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,19,34560,F#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,20,36480,F#,pack-local equal-tempered pitch collection,56 60 63,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,21,38400,F#,pack-local equal-tempered pitch collection,59 63 66,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,22,40320,F#,pack-local equal-tempered pitch collection,59 63 66,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,23,42240,F#,pack-local equal-tempered pitch collection,59 63 66,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,24,44160,F#,pack-local equal-tempered pitch collection,59 63 66,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,25,46080,F#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,26,48000,F#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,27,49920,F#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,28,51840,F#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,29,53760,F#,pack-local equal-tempered pitch collection,58 62 65,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,30,55680,F#,pack-local equal-tempered pitch collection,58 62 65,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,31,57600,F#,pack-local equal-tempered pitch collection,58 62 65,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm03,32,59520,F#,pack-local equal-tempered pitch collection,58 62 65,Interlocking repeated cycles with shifting phase. Contrast moves the accent map.
+pm04,1,0,C#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,2,1920,C#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,3,3840,C#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,4,5760,C#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,5,7680,C#,pack-local equal-tempered pitch collection,49 53 56,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,6,9600,C#,pack-local equal-tempered pitch collection,49 53 56,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,7,11520,C#,pack-local equal-tempered pitch collection,49 53 56,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,8,13440,C#,pack-local equal-tempered pitch collection,49 53 56,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,9,15360,C#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,10,17280,C#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,11,19200,C#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,12,21120,C#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,13,23040,C#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,14,24960,C#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,15,26880,C#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,16,28800,C#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,17,30720,C#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,18,32640,C#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,19,34560,C#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,20,36480,C#,pack-local equal-tempered pitch collection,54 58 61,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,21,38400,C#,pack-local equal-tempered pitch collection,49 53 56,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,22,40320,C#,pack-local equal-tempered pitch collection,49 53 56,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,23,42240,C#,pack-local equal-tempered pitch collection,49 53 56,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,24,44160,C#,pack-local equal-tempered pitch collection,49 53 56,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,25,46080,C#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,26,48000,C#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,27,49920,C#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,28,51840,C#,pack-local equal-tempered pitch collection,53 57 60,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,29,53760,C#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,30,55680,C#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,31,57600,C#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.
+pm04,32,59520,C#,pack-local equal-tempered pitch collection,51 55 58,Interlocking repeated cycles with shifting phase. Return keeps the identity while changing one placement.

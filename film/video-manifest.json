@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/polyrhythmic-minimalism-simple-synth-preview.mp3",
+  "source_audio_sha256": "229f077176f45a152a15a25a4185b3b4c3d0e57b0b7cf165595a8e356ef876a6",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "8cb898a016e9f30219e1bef262a2e5172831aaae9e7cc4c32921c866be38a14d",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
