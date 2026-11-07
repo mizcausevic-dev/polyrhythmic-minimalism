@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 793,
-      "sha256": "8794ab5fb4e3609e06d01560dc4c3c83687caafc86fd85798ab22aeef13a32c1"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3572,
-      "sha256": "c47b6c2a56d423d5197cdb2afb5d42b7b0e125a289bb4dba492892ad6a9d4326"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/polyrhythmic-minimalism-midi.zip",
-      "bytes": 22831,
-      "sha256": "665ec9966617ebf10866bda6bd47c325a6a553b885675d06f962b3072f94e58b"
+      "bytes": 24672,
+      "sha256": "d2aafd9b94ea4b4d5941870ce119b2112fba6b68f4ad5c4edf526f9c4bacc31a"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 32804,
       "sha256": "3256bd81bbb2ed3305d1794293d6d4b4079d35e5c8bba932aaae253488aabe83"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 970838,
-      "sha256": "96859be6a436492f549ceba46530ce6afb34ca1be51156050c0adb0701e3dede"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9344,
-      "sha256": "5d8ccfbdf3b88fb8ef8ab0d5c98eecb2a5c598cb7199ddeb5aa9b5881a2505ab"
+      "bytes": 9534,
+      "sha256": "30a3dbaf8c58a8fef9e594831be4ac1923ff143ad856d03be641195d9c29bbea"
     },
     {
       "path": "midi/pm01-phase-one/chord_pulse.mid",
@@ -312,6 +297,16 @@
       "sha256": "9882dc3bed68f659874188026b7c8421db83681608fbef2a7f2f75407503aab2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 793,
+      "sha256": "8794ab5fb4e3609e06d01560dc4c3c83687caafc86fd85798ab22aeef13a32c1"
+    },
+    {
       "path": "preview/polyrhythmic-minimalism-simple-synth-preview.mp3",
       "bytes": 1659551,
       "sha256": "229f077176f45a152a15a25a4185b3b4c3d0e57b0b7cf165595a8e356ef876a6"
@@ -320,6 +315,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1132,
       "sha256": "91d01fc9202b8a04cb4c7aef44535aeac7a5002a4e92ca913fd141feeafd6244"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3687,
+      "sha256": "5266ea03121f5de05224014c5b5ba8f768fafb0dd84340ff7b80d190a1a1a19f"
     },
     {
       "path": "social/instagram/caption.txt",
